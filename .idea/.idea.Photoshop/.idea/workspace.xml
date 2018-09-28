@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d06dbd5-b675-4ba9-ba51-c68c506af6a0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="138252122">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="900" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="900" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-1135914783">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="317" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="317" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/Photo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/Pixel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <folding>
+                <marker date="1537372068985" expanded="true" signature="62:1231" ph="{...}" />
+                <marker date="1537372068985" expanded="true" signature="119:232" ph="{...}" />
+                <marker date="1537372068985" expanded="true" signature="422:542" ph="{...}" />
+                <marker date="1537372068985" expanded="true" signature="598:825" ph="{...}" />
+                <marker date="1537372068985" expanded="true" signature="648:788" ph="{...}" />
+                <marker date="1537372068985" expanded="true" signature="897:1094" ph="{...}" />
+                <marker date="1537372068985" expanded="true" signature="1166:1225" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Filters/DesaturateFilter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+              <folding>
+                <marker date="1537974094984" expanded="true" signature="36:551" ph="{...}" />
+                <marker date="1537974094984" expanded="true" signature="86:549" ph="{...}" />
+                <marker date="1537974094984" expanded="true" signature="148:209" ph="{...}" />
+                <marker date="1537974094984" expanded="true" signature="252:305" ph="{...}" />
+                <marker date="1537974094984" expanded="true" signature="389:543" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Filters/PixelFilter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="24" column="83" selection-start-line="24" selection-start-column="83" selection-end-line="24" selection-end-column="83" />
+              <folding>
+                <marker date="1537974094508" expanded="true" signature="36:676" ph="{...}" />
+                <marker date="1537974094508" expanded="true" signature="86:674" ph="{...}" />
+                <marker date="1537974094508" expanded="true" signature="216:583" ph="{...}" />
+                <marker date="1537974094508" expanded="true" signature="347:545" ph="{...}" />
+                <marker date="1537974094508" expanded="true" signature="417:531" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Window/MainWindow.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2040">
+              <caret line="135" column="32" selection-start-line="135" selection-start-column="32" selection-end-line="135" selection-end-column="32" />
+              <folding>
+                <marker date="1537353161119" expanded="false" signature="6:133" ph="..." />
+                <marker date="1537353161119" expanded="true" signature="156:5157" ph="{...}" />
+                <marker date="1537353161119" expanded="true" signature="193:5155" ph="{...}" />
+                <marker date="1537353161119" expanded="true" signature="477:1224" ph="{...}" />
+                <marker date="1537353161119" expanded="true" signature="1268:2116" ph="{...}" />
+                <marker date="1537353161119" expanded="true" signature="2164:2395" ph="{...}" />
+                <marker date="1537353161119" expanded="true" signature="2270:2385" ph="{...}" />
+                <marker date="1537353161119" expanded="true" signature="2451:4038" ph="{...}" />
+                <marker date="1537353161119" expanded="true" signature="3076:3984" ph="{...}" />
+                <marker date="1537353161119" expanded="true" signature="4093:5149" ph="{...}" />
+                <marker date="1537353161119" expanded="true" signature="4495:5097" ph="{...}" />
+                <marker date="1537353161119" expanded="true" signature="4816:5046" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Filters/LighteningFilter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding>
+                <marker date="1537974095032" expanded="true" signature="21:592" ph="{...}" />
+                <marker date="1537974095032" expanded="true" signature="71:590" ph="{...}" />
+                <marker date="1537974095032" expanded="true" signature="133:328" ph="{...}" />
+                <marker date="1537974095032" expanded="true" signature="181:317" ph="{...}" />
+                <marker date="1537974095032" expanded="true" signature="371:435" ph="{...}" />
+                <marker date="1537974095032" expanded="true" signature="519:584" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <folding>
+                <marker date="1537539453959" expanded="false" signature="6:41" ph="..." />
+                <marker date="1537539453959" expanded="true" signature="86:373" ph="{...}" />
+                <marker date="1537539453959" expanded="true" signature="159:367" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/Convertors.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="16" column="46" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="46" />
+              <folding>
+                <marker date="1537371705253" expanded="false" signature="6:35" ph="..." />
+                <marker date="1537371705253" expanded="true" signature="95:1244" ph="{...}" />
+                <marker date="1537371705253" expanded="true" signature="154:688" ph="{...}" />
+                <marker date="1537371705253" expanded="true" signature="270:651" ph="{...}" />
+                <marker date="1537371705253" expanded="true" signature="337:637" ph="{...}" />
+                <marker date="1537371705253" expanded="true" signature="730:788" ph="{...}" />
+                <marker date="1537371705253" expanded="true" signature="844:1238" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ToChannel</find>
+      <find>Photo2Bitmap</find>
+      <find>CheckValue</find>
+      <find>Wrong channel value</find>
+      <find>.Data</find>
+      <find>LighteningFilter</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Window/MainWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Convertors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Pixel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Photo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/185F5064-5266-46D1-9255-0947861D97B1/f7/c5eafded/Application.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Filters/PixelFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Filters/DesaturateFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Filters/ParameterInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Filters/LighteningFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Main.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Filters/IFilter.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Window/MainWindow.cs" />
+        <option value="$PROJECT_DIR$/Data/Photo.cs" />
+        <option value="$PROJECT_DIR$/Data/Convertors.cs" />
+        <option value="$PROJECT_DIR$/Data/Pixel.cs" />
+        <option value="$PROJECT_DIR$/Main.cs" />
+        <option value="$PROJECT_DIR$/Filters/LighteningFilter.cs" />
+        <option value="$PROJECT_DIR$/Filters/DesaturateFilter.cs" />
+        <option value="$PROJECT_DIR$/Filters/BaseFilter.cs" />
+        <option value="$PROJECT_DIR$/Filters/PixelFilter.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="250" />
+    <option name="y" value="34" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Photoshop" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Photoshop" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Photoshop" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Photoshop" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Photoshop" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Filters" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Photoshop" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Photoshop" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Window" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/MyPhotoshop.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Photoshop.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d06dbd5-b675-4ba9-ba51-c68c506af6a0" name="Default Changelist" comment="" />
+      <created>1537349903785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537349903785</updated>
+      <workItem from="1537349906518" duration="12014000" />
+      <workItem from="1537529753294" duration="6810000" />
+      <workItem from="1537973783533" duration="799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19623000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="32" width="1853" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25853387" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32844242" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954853" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32881355" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/185F5064-5266-46D1-9255-0947861D97B1/f7/c5eafded/Application.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="495" column="23" selection-start-line="495" selection-start-column="23" selection-end-line="495" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Filters/ParameterInfo.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Filters/IFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Photo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Pixel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <marker date="1537372068985" expanded="true" signature="62:1231" ph="{...}" />
+            <marker date="1537372068985" expanded="true" signature="119:232" ph="{...}" />
+            <marker date="1537372068985" expanded="true" signature="422:542" ph="{...}" />
+            <marker date="1537372068985" expanded="true" signature="598:825" ph="{...}" />
+            <marker date="1537372068985" expanded="true" signature="648:788" ph="{...}" />
+            <marker date="1537372068985" expanded="true" signature="897:1094" ph="{...}" />
+            <marker date="1537372068985" expanded="true" signature="1166:1225" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <marker date="1537539453959" expanded="false" signature="6:41" ph="..." />
+            <marker date="1537539453959" expanded="true" signature="86:373" ph="{...}" />
+            <marker date="1537539453959" expanded="true" signature="159:367" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Convertors.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <marker date="1537371705253" expanded="false" signature="6:35" ph="..." />
+            <marker date="1537371705253" expanded="true" signature="95:1244" ph="{...}" />
+            <marker date="1537371705253" expanded="true" signature="154:688" ph="{...}" />
+            <marker date="1537371705253" expanded="true" signature="270:651" ph="{...}" />
+            <marker date="1537371705253" expanded="true" signature="337:637" ph="{...}" />
+            <marker date="1537371705253" expanded="true" signature="730:788" ph="{...}" />
+            <marker date="1537371705253" expanded="true" signature="844:1238" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Filters/LighteningFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <marker date="1537974095032" expanded="true" signature="21:592" ph="{...}" />
+            <marker date="1537974095032" expanded="true" signature="71:590" ph="{...}" />
+            <marker date="1537974095032" expanded="true" signature="133:328" ph="{...}" />
+            <marker date="1537974095032" expanded="true" signature="181:317" ph="{...}" />
+            <marker date="1537974095032" expanded="true" signature="371:435" ph="{...}" />
+            <marker date="1537974095032" expanded="true" signature="519:584" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Filters/DesaturateFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <folding>
+            <marker date="1537974094984" expanded="true" signature="36:551" ph="{...}" />
+            <marker date="1537974094984" expanded="true" signature="86:549" ph="{...}" />
+            <marker date="1537974094984" expanded="true" signature="148:209" ph="{...}" />
+            <marker date="1537974094984" expanded="true" signature="252:305" ph="{...}" />
+            <marker date="1537974094984" expanded="true" signature="389:543" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Filters/PixelFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="24" column="83" selection-start-line="24" selection-start-column="83" selection-end-line="24" selection-end-column="83" />
+          <folding>
+            <marker date="1537974094508" expanded="true" signature="36:676" ph="{...}" />
+            <marker date="1537974094508" expanded="true" signature="86:674" ph="{...}" />
+            <marker date="1537974094508" expanded="true" signature="216:583" ph="{...}" />
+            <marker date="1537974094508" expanded="true" signature="347:545" ph="{...}" />
+            <marker date="1537974094508" expanded="true" signature="417:531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Window/MainWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="135" column="32" selection-start-line="135" selection-start-column="32" selection-end-line="135" selection-end-column="32" />
+          <folding>
+            <marker date="1537353161119" expanded="false" signature="6:133" ph="..." />
+            <marker date="1537353161119" expanded="true" signature="156:5157" ph="{...}" />
+            <marker date="1537353161119" expanded="true" signature="193:5155" ph="{...}" />
+            <marker date="1537353161119" expanded="true" signature="477:1224" ph="{...}" />
+            <marker date="1537353161119" expanded="true" signature="1268:2116" ph="{...}" />
+            <marker date="1537353161119" expanded="true" signature="2164:2395" ph="{...}" />
+            <marker date="1537353161119" expanded="true" signature="2270:2385" ph="{...}" />
+            <marker date="1537353161119" expanded="true" signature="2451:4038" ph="{...}" />
+            <marker date="1537353161119" expanded="true" signature="3076:3984" ph="{...}" />
+            <marker date="1537353161119" expanded="true" signature="4093:5149" ph="{...}" />
+            <marker date="1537353161119" expanded="true" signature="4495:5097" ph="{...}" />
+            <marker date="1537353161119" expanded="true" signature="4816:5046" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

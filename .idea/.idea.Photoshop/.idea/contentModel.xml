@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Photoshop.-1690922764.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Data" t="Include">
+        <e p="Convertors.cs" t="Include" />
+        <e p="Photo.cs" t="Include" />
+        <e p="Pixel.cs" t="Include" />
+      </e>
+      <e p="Filters" t="Include">
+        <e p="DesaturateFilter.cs" t="Include" />
+        <e p="IFilter.cs" t="Include" />
+        <e p="LighteningFilter.cs" t="Include" />
+        <e p="ParameterInfo.cs" t="Include" />
+        <e p="PixelFilter.cs" t="Include" />
+      </e>
+      <e p="Main.cs" t="Include" />
+      <e p="Photoshop.csproj" t="IncludeRecursive" />
+      <e p="Photoshop.sln" t="IncludeFlat" />
+      <e p="Tasks.txt" t="Include" />
+      <e p="Window" t="Include">
+        <e p="MainWindow.cs" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="cat.jpg" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
